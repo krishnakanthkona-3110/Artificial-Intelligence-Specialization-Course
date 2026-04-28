@@ -1,0 +1,18 @@
+Notes:
+
+https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/446/382/original/langchain_langgraph_part1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20260428%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260428T124059Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=62610563d97e92102c6b312fabd249b103c56bf4cc87f1f801f92ec545642c5c
+
+https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/453/120/original/langraph2.0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20260428%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260428T124135Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=dd8c3c2677a0743874b8c4b6a45491ab68905248e27e4f10c2888d403069b1f7
+
+PDF Document:
+https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/453/119/original/Langgraph_Studio_Guide__2_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20260428%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260428T124135Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=440d11a2c2964551f131f4a30f0cdd56439d1644c9835323b93d2c569c7c58ba
+
+Google Colab:
+
+Langgraph
+
+https://colab.research.google.com/drive/1W_D7R718uX_UFa2b-H2djuuLS4NDGUYc
+
+Langsmith
+
+https://colab.research.google.com/drive/1WSbRYjbZrfKpSmKq77QxuwjGtuyzJgfT
